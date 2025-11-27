@@ -18,6 +18,9 @@ I used the following tools:
 I tried my best to make the code as clean as possible and easy to understand.
 Also, I tried to make it look like a real dashboard.
 
+deploy link: https://aawiz-nine.vercel.app/
+github link: https://github.com/ImmortalNerd/aawiz
+
 
 
 ## Getting Started
